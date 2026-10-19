@@ -1,0 +1,6 @@
+{
+  "name": "Global Finance Presentation Suite",
+  "description": "Professional presentation recreation and interactive financial deck for Global Finance Investment Platform, featuring PPTX/PDF export, 25-day daily ROI cycle calculations, and USDT financial model.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
